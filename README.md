@@ -5,7 +5,7 @@ This project is a beginner Streamlit dashboard for analyzing tweet sentiment abo
 I learned how to build this from a guided Coursera project:
 
 **Create Interactive Dashboards with Streamlit and Python**  
-https://www.coursera.org/projects/create-interactive-dashboards-with-streamlit-and-python
+https://www.coursera.org/projects/interactive-dashboards-streamlit-python
 
 ## Tech Stack
 - Python
