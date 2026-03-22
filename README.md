@@ -25,6 +25,19 @@ https://www.coursera.org/projects/interactive-dashboards-streamlit-python
 - Airline sentiment breakdown (multiselect)
 - Word cloud by selected sentiment
 
+## Screenshots
+Sidebar
+![Sidebar](images/sidebar.png)
+
+Univariate Sentiment Chart
+![Tweets_Pie_Chart](images/univariate_bar.png)
+
+Map Visualization
+![Map_Visualization](images/map_visualization.png)
+
+Word Cloud
+![WordCloud](images/word_cloud.png)
+
 ## Run the App
 ```bash
 streamlit run app.py
